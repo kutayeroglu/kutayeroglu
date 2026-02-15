@@ -6,7 +6,8 @@
 
 ### Currently 
 * **Researching:** Self-supervised visual representation learning.
-* **Teaching:** Project development in software engineering [[Course Link](https://cmpe.bogazici.edu.tr/courses/cmpe451/)]
+* **Teaching:** * **Current:** [Project Development in Software Engineering](https://cmpe.bogazici.edu.tr/courses/cmpe354/) (CmpE 354)
+    * **Past:** [Project Development in Software Engineering](https://cmpe.bogazici.edu.tr/courses/cmpe451/) (CmpE 451)
 * **Exploring:** Human-inspired machine intelligence
   
 ### Research Interests
