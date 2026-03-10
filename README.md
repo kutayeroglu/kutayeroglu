@@ -18,5 +18,5 @@
 
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kutayeroglu/)
-[![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail)](mailto:eroglukut@gmail.com)
+[![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=maildotru)](mailto:kutay.eroglu@bogazici.edu.tr)
 ---
