@@ -1,12 +1,10 @@
 # (╭ರ_•́)
 
-**Graduate Research & Teaching Assistant** | **Master's Student** at [@bouncmpe](https://github.com/bouncmpe)
+**Teaching Assistant** and **PhD Student** at [@bouncmpe](https://github.com/bouncmpe)
 
 ---
 
 ### Currently 
-* **Researching:** Self-supervised visual representation learning
-* **Teaching:** [Project Development in Software Engineering](https://cmpe.bogazici.edu.tr/courses/cmpe354/) (CmpE 354)
 * **Exploring:** Deepfake detection
   
 ### Research Interests
