@@ -1,5 +1,3 @@
-# ¯\\(◉‿◉)/¯
-
 **Teaching Assistant** and **PhD Student** at [@bouncmpe](https://github.com/bouncmpe)
 
 ---
